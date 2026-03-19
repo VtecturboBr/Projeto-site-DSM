@@ -1,1 +1,1 @@
-# Projeto-site-DSM
+este projeto é um exemplo simples de aplicação web usando **node.js + express** para criar paginas estaticas em HTML.
